@@ -1,7 +1,7 @@
-import { getUser } from '/src/scripts/user.js';
-import { getRepositorios } from '/src/scripts/repositorios.js';
-import { user } from '/src/scripts/objetos.js';
-import { screen } from '/src/scripts/screen.js';
+import { getUser } from './user.js';
+import { getRepositorios } from './repositorios.js';
+import { user } from './objetos.js';
+import { screen } from './screen.js';
 
 document.getElementById('btn-search').addEventListener('click', () => {
 
