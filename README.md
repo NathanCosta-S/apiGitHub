@@ -20,6 +20,6 @@
 - JAVASCRIPT
 - Controle de versão GIT
 
-💻 Página do projeto -  [Projeto Food Commerce](https://nathancosta-s.github.io/apiGitHub/)
+💻 Página do projeto -  [Projeto API](https://nathancosta-s.github.io/apiGitHub/)
 
 🙋‍♂️ Perfil no LinkedIn - [Lucas Cassimiro](https://www.linkedin.com/in/lucasocassimiro/)
