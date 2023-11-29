@@ -22,4 +22,4 @@
 
 💻 Página do projeto -  [Projeto API](https://nathancosta-s.github.io/apiGitHub/)
 
-🙋‍♂️ Perfil no LinkedIn - [Lucas Cassimiro](https://www.linkedin.com/in/lucasocassimiro/)
+🙋‍♂️ Perfil no LinkedIn - [Nathan Da Costa Silva](https://www.linkedin.com/in/nathan-da-costa-silva-1905b2292/)
